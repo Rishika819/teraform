@@ -16,4 +16,10 @@ sqs/.terraform
 sqs/.terraform.lock.hcl
 sqs/terraform.tfstate
 sqs/terraform.tfstate.backup
+
+
+dydb/.terraform
+dydb/.terraform.lock.hcl
+dydb/terraform.tfstate
+dydb/terraform.tfstate.backup
  
